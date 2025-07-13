@@ -1,0 +1,15 @@
+{
+  "parts": [
+    {
+      "name": "Wizard Arrow",
+      "part_type": "Blade",
+      "series": "BX-03",
+      "rarity": "Common",
+      "weight": 35.1,
+      "description": "Balance type blade with arrow design",
+      "owned_quantity": 1,
+      "condition": "New"
+    }
+  ],
+  "combos": []
+}
